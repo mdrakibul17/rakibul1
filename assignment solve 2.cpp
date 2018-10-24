@@ -174,12 +174,4 @@ int main()
                 break;
             }
         }
-        if(indx) cout<<"'"<<p<<"' is found at position: "<<indx<<endl;
-        else cout<<"'"<<p<<"' is not found in the text!"<<endl;
-    }
-
-    return 0;
-}
-
-
-
+        
